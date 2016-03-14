@@ -1,0 +1,26 @@
+<manifest
+    package="com.thoughtw.retail.sample"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:name="com.thoughtw.retail.sample.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name="com.thoughtw.retail.sample.activity.MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".activity.ViewCartActivity"/>
+        <activity android:name=".activity.ViewProductDetails"/>
+    </application>
+
+</manifest>

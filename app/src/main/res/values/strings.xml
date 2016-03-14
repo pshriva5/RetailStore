@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Retail Store</string>
+    <string name="electronics">ELECTRONICS</string>
+    <string name="furniture">FURNITURE</string>
+    <string name="activity">HOME</string>
+    <string name="product_info">Product info and Care</string>
+    <string name="cart">Shopping Bag</string>
+    <string name="empty_msg">No Items in Bag :(</string>
+    <string name="checkout">continue to checkout</string>
+    <string name="add_item">ADD TO BAG</string>
+    <string name="settings">SETTINGS</string>
+
+
+    <string-array name="product_names">
+        <item>Panasonic Microwave 6253m</item>
+        <item>IFB Microwave S62</item>
+        <item>Electrolux Microwave 66VVF</item>
+
+        <item>Panasonic 21 inch Viera</item>
+        <item>SONY 18 inch Bravia</item>
+        <item>PHILIPS 29 inch 552K</item>
+
+        <item>NOVA Vacuum Cleaner 1500W</item>
+        <item>Buster Vacuum Cleaner 900W</item>
+        <item>IFB Vacuum Cleaner 200W</item>
+
+        <item>Brown Wood Table with Drawer</item>
+        <item>Coffee Table in Brown</item>
+        <item>Floor Table Wooden</item>
+
+        <item>Red Folding Chair</item>
+        <item>Brown Office Revolving  Chair </item>
+        <item>Red and Black Office Chair</item>
+
+        <item>Godrej Wooden Brown Almirah</item>
+        <item>Blue Metal Steel Almirah</item>
+        <item>Kids Red Flexible Almirah</item>
+
+    </string-array>
+
+
+    <string-array name="product_description">
+        <item>Panasonic Microwave 6253m is 100 % Original Product with Brand Warranty | 1 Year Warranty Capacity(Ltrs) : 20 litre ntellowave Technology, Anti Bacterial Cavity, 5 Power Levels</item>
+        <item>IFB Microwave S62 is 100 % is Original Product with Brand Warranty | 1 Year Warranty Capacity(Ltrs) : 20 litre ntellowave Technology, Anti Bacterial Cavity, 5 Power Levels</item>
+        <item>Electrolux Microwave 66VVF is is 100 % Original Product with Brand Warranty | 1 Year Warranty Capacity(Ltrs) : 20 litre ntellowave Technology, Anti Bacterial Cavity, 5 Power Levels</item>
+
+        <item>Panasonic 21 inch Viera with Display Resolution : 1366 x 768 Enhance your home entertainment experience with the Panasonic TH-32C200DX LED Television. This television has a 80 cm screen that provides you wide viewing angles. It features Full HD display, that offers you sharp picture quality and excellent detail.</item>
+        <item>SONY 18 inch Bravia Enhance your home entertainment experience with the Panasonic TH-32C200DX LED Television. This television has a 80 cm screen that provides you wide viewing angles. It features Full HD display, that offers you sharp picture quality and excellent detail</item>
+        <item>PHILIPS 29 inch 552K Enhance your home entertainment experience with the Panasonic TH-32C200DX LED Television. This television has a 80 cm screen that provides you wide viewing angles. It features Full HD display, that offers you sharp picture quality and excellent detail</item>
+
+        <item>NOVA Vacuum Cleaner 1500W Looking for a perfect accompaniment for all your cleaning needs? Then look no further! There is an exciting opportunity to become the proud owner of a Eureka Forbes Quick Clean DX Vacuum Cleaner. </item>
+        <item>Buster Vacuum Cleaner 900W Looking for a perfect accompaniment for all your cleaning needs? Then look no further! There is an exciting opportunity to become the proud owner of a Eureka Forbes Quick Clean DX Vacuum Cleaner. </item>
+        <item>IFB Vacuum Cleaner 200W Looking for a perfect accompaniment for all your cleaning needs? Then look no further! There is an exciting opportunity to become the proud owner of a Eureka Forbes Quick Clean DX Vacuum Cleaner. </item>
+
+        <item>Brown Wood Table with Drawer Table lets you conveniently work, play or surf anywhere you wish. - Aesthetically pleasing design with CNC Machined Wood Top and Glossy Stainless Steel Legs adds class and elegance to your living space.</item>
+        <item>Coffee Table in Brown Table lets you conveniently work, play or surf anywhere you wish. - Aesthetically pleasing design with CNC Machined Wood Top and Glossy Stainless Steel Legs adds class and elegance to your living space.</item>
+        <item>Floor Table Wooden Table lets you conveniently work, play or surf anywhere you wish. - Aesthetically pleasing design with CNC Machined Wood Top and Glossy Stainless Steel Legs adds class and elegance to your living space.</item>
+
+        <item>Red Foldable Chair Cushioned seat and back, paded arms, torsion bar, gas-lift mechanism, silver color base and nylon wheels. Chair duly upholstered in the Cream leatherette upholstery</item>
+        <item>Brown Office Revolving  Chair Quality components contribute to a strong chair A smooth lift and torsion bar enable you to adjust it to your liking </item>
+        <item>Red and Black Office Revolving  Chair Quality components contribute to a strong chair A smooth lift and torsion bar enable you to adjust it to your liking </item>
+
+        <item>Godrej Wooden Brown Almirah EI brings you the best range of quality solid wood and modular furniture right to your doorstep</item>
+        <item>Blue Metal Steel Almirah Height - We serve your basic home furnishing, decor and kitchen needs.78 inches, Width - 36 inches, Depth - 19 inches Finish : tural</item>
+        <item>Kids Red Flexible Almirah Whether you are looking for wooden furniture for your living room or a new set of swings for your outdoors, you will find hundreds of options across a wide price range</item>
+
+    </string-array>
+    <string-array name="product_prices">
+        <item>2599</item>
+        <item>1599</item>
+        <item>3000</item>
+        <item>21200</item>
+        <item>17800</item>
+        <item>15600</item>
+        <item>1500</item>
+        <item>600</item>
+        <item>877</item>
+        <item>456</item>
+        <item>788</item>
+        <item>986</item>
+        <item>967</item>
+        <item>754</item>
+        <item>924</item>
+        <item>7800</item>
+        <item>6798</item>
+        <item>5678</item>
+
+    </string-array>
+
+</resources>
